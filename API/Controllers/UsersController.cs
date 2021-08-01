@@ -8,13 +8,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-
+   
     //controller is used to fetch and deliver data from data base. 
     //Controller derives from ControllerBase class
     //Angular serves as view
-    public class UsersController : ControllerBase
+    public class UsersController : BaseApiController
     {
         private readonly DataContext _context;
         public UsersController(DataContext context)
