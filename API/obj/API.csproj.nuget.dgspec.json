@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aburn\\OneDrive\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\aburn\\onedrive\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aburn\\OneDrive\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\aburn\\onedrive\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aburn\\OneDrive\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\aburn\\onedrive\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\aburn\\OneDrive\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\aburn\\onedrive\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\aburn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aburn\\OneDrive\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\aburn\\onedrive\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
